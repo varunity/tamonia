@@ -1,0 +1,4 @@
+2021-09-20T20:03:32.974Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2021-09-20T20:28:17.011Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2021-09-20T20:28:17.011Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2021-09-20T20:28:17.011Z thumbsup:warn dcraw (https://www.cybercom.net/~dcoffin/dcraw/) is not installed. You will not be able to process RAW photos.
